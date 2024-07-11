@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+pubspec.lock
+
+# IDE related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+*.DS_Store
+
+# Windows
+*.log
+*.tmp
+
+# Linux
+*~
