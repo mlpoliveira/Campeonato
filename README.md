@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# Campeonato
-Projeto Curso Flutter
-=======
-# campeonato
+# Campeonato Manager
 
-A new Flutter project.
+Este é um aplicativo Flutter para gerenciamento de campeonatos, desenvolvido usando Flutter e Parse Server.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Cadastro de jogadores
+- Criação e gerenciamento de campeonatos
+- Registro de partidas
+- Visualização de rankings
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Parse Server (Back4App)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 6e22358 (Initial commit)
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/USERNAME/Campeonato.git
